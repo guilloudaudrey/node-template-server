@@ -1,0 +1,23 @@
+{
+  "name": "template-server",
+  "version": "0.0.1",
+  "description": "node template server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilloudaudrey/node-template-server.git"
+  },
+  "author": "audrey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guilloudaudrey/node-template-server/issues"
+  },
+  "homepage": "https://github.com/guilloudaudrey/node-template-server#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mustache": "^2.3.0"
+  }
+}
